@@ -1,0 +1,18 @@
+Instructions for use
+
+Open a root terminal and execute the command dpkg-reconfigure locales
+select en_US.UTF-8 (press space key for selection)
+Select en_US.UTF-8 as the system default locale
+Logout
+In the login screen, select US (UTF-8) in the language option.
+Then login to the system (select the option make this selection as default)
+Copy the unzipped folder.
+Please put the malayalam file typespeed.txt in your home folder 
+Open the file pytypespeed-0.01.py by double cliking and select the option "Run in Terminal".
+Give Name, Reg No and password as " pass ".
+Display the content of the file typespeed.txt in the upper part of the window. Type this content 	in the lower part of the window as it is.
+A message box appears when the allowed time is over OR the condent is finished.
+The score of the students can be exported by using the option File-Export score.
+The score details (CPM, Accuracy, WPM, time) can be seen from the file typespeed_score.txt created in home folder.
+
+
